@@ -16,15 +16,15 @@ namespace ListaEnlazadaEjercicios
                 Console.WriteLine("\nSeleccione un ejercicio (1, 2), o 0 para salir:"); // Menú ajustado para ejercicio 1 y 2
                 string opcion = Console.ReadLine(); 
 
-                // Usa una estructura switch para ejecutar la acción correspondiente a la opción.
+                // Usa una estructura switch para ejecutar la acción correspondiente a la opción
                 switch (opcion)
                 {
                     case "1":
-                        // Llama al método estático Ejecutar de la clase Ejercicio01.
+                        // Llama al método estático Ejecutar de la clase Ejercicio01
                         Ejercicio01.Ejecutar(); 
                         break;
                     case "2": 
-                        // Llama al método estático Ejecutar de la clase Ejercicio05.
+                        // Llama al método estático Ejecutar de la clase Ejercicio05
                         Ejercicio02.Ejecutar(); 
                         break;
                     case "0":

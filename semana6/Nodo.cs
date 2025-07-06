@@ -8,7 +8,7 @@ namespace ListaEnlazadaEjercicios
     {
         public int Dato;          // El valor entero almacenado en este nodo.
         public Nodo? Siguiente;   // Referencia al siguiente nodo en la secuencia de la lista.
-                                  // Se usa '?' para indicar que puede ser nulo, evitando warnings.
+                                 
 
         // Constructor para inicializar un nuevo nodo.
         public Nodo(int dato)
