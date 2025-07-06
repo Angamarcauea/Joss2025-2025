@@ -1,0 +1,14 @@
+C:\Users\Darwin\Documents\ESTRUCTURA DE DATOS\semana6\obj\Debug\net9.0\semana6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darwin\Documents\ESTRUCTURA DE DATOS\semana6\obj\Debug\net9.0\semana6.AssemblyInfoInputs.cache
+C:\Users\Darwin\Documents\ESTRUCTURA DE DATOS\semana6\obj\Debug\net9.0\semana6.AssemblyInfo.cs
+C:\Users\Darwin\Documents\ESTRUCTURA DE DATOS\semana6\obj\Debug\net9.0\semana6.csproj.CoreCompileInputs.cache
+C:\Users\Darwin\Documents\ESTRUCTURA DE DATOS\semana6\bin\Debug\net9.0\semana6.exe
+C:\Users\Darwin\Documents\ESTRUCTURA DE DATOS\semana6\bin\Debug\net9.0\semana6.deps.json
+C:\Users\Darwin\Documents\ESTRUCTURA DE DATOS\semana6\bin\Debug\net9.0\semana6.runtimeconfig.json
+C:\Users\Darwin\Documents\ESTRUCTURA DE DATOS\semana6\bin\Debug\net9.0\semana6.dll
+C:\Users\Darwin\Documents\ESTRUCTURA DE DATOS\semana6\bin\Debug\net9.0\semana6.pdb
+C:\Users\Darwin\Documents\ESTRUCTURA DE DATOS\semana6\obj\Debug\net9.0\semana6.dll
+C:\Users\Darwin\Documents\ESTRUCTURA DE DATOS\semana6\obj\Debug\net9.0\refint\semana6.dll
+C:\Users\Darwin\Documents\ESTRUCTURA DE DATOS\semana6\obj\Debug\net9.0\semana6.pdb
+C:\Users\Darwin\Documents\ESTRUCTURA DE DATOS\semana6\obj\Debug\net9.0\semana6.genruntimeconfig.cache
+C:\Users\Darwin\Documents\ESTRUCTURA DE DATOS\semana6\obj\Debug\net9.0\ref\semana6.dll
